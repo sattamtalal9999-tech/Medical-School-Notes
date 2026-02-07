@@ -111,3 +111,20 @@ Frank–Starling law:
 - Cardiac cycle has 5 phases
 - CO = HR × SV
 - SV affected by preload, afterload, contractility
+What is cardiac output?,Heart rate multiplied by stroke volume
+Normal resting cardiac output?,Approximately 5 L per minute
+What are the determinants of stroke volume?,Preload afterload and contractility
+Define preload,Degree of ventricular stretch at end diastole
+Preload is related to which volume?,End diastolic volume
+What law explains preload effect on stroke volume?,Frank Starling law
+Define afterload,Resistance the ventricle must overcome to eject blood
+Increased afterload effect on stroke volume?,Decreases stroke volume
+Define contractility,Strength of myocardial contraction independent of preload
+What increases contractility?,Sympathetic stimulation and catecholamines
+Pacemaker of the heart?,Sinoatrial node
+Effect of sympathetic stimulation on heart rate?,Increases heart rate
+Effect of parasympathetic stimulation on heart rate?,Decreases heart rate
+QRS complex represents?,Ventricular depolarization and contraction
+T wave represents?,Ventricular repolarization
+Main problem in heart failure?,Decreased contractility and cardiac output
+Hypertension causes increase in?,Afterload
